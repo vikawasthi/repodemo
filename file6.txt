@@ -1,1 +1,6 @@
+<<<<<<< HEAD
  iam on 6
+=======
+new file on RR
+  
+>>>>>>> 6a6736d78bf8ab2095ed64e24f509f3f72ed355d
